@@ -6,7 +6,7 @@
 
 ## Description
 
-_This web page demonstrates my ability to use HTML elements and inline elements such as img and anchor.}_
+_This web page demonstrates my ability to use HTML elements and inline elements such as img and anchor._
 
 ## Technologies Used
 
