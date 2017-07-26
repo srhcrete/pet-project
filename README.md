@@ -1,19 +1,19 @@
-# _{Pet Project Web Page}_
+# _Pet Project Web Page_
 
-#### _{Web Page about my pet for Epicodus}, {07.26.17}_
+#### _HMTL exercise for Epicodus, 07.26.17_
 
-#### By _**{Sarah C Lindmar}**_
+#### By _**Sarah C Lindmar**_
 
 ## Description
 
-_{This web page gives information about my pet and demonstrates my ability to use HTML elements and inline elements such as img and anchor.}_
+_This web page demonstrates my ability to use HTML elements and inline elements such as img and anchor.}_
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
 ### License
 
-*{This project is licensed under the MIT license.}*
+*This project is licensed under the MIT license.*
 
-Copyright (c) 2017 **_{Sarah C Lindmar}_**
+Copyright (c) 2017 **_Sarah C Lindmar_**
